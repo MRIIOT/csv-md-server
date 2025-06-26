@@ -1,0 +1,16 @@
+node_modules/
+.env
+logs/
+*.log
+.DS_Store
+input/
+output/
+dist/
+build/
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+.eslintcache

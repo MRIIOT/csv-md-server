@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(npm install)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:modelcontextprotocol.io)",
+      "Bash(cat:*)",
+      "WebFetch(domain:www.npmjs.com)",
+      "Bash(find:*)"
+    ],
+    "deny": []
+  }
+}
